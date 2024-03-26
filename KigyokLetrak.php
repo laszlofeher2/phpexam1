@@ -8,9 +8,9 @@
 class KigyokLetrak
 {
 
-    private $aktualisPozicio = 1;
-    private $dobasSzam = 0;
-    private $kigyokLetrak = [];
+    private $aktualisPozicio    = 1;
+    private $dobasSzam          = 0;
+    private $kigyokLetrak       = [];
     private $dobokockaOldalSzam = 6;
 
     /**
