@@ -14,7 +14,7 @@ class KigyokLetrak
     private $dobokockaOldalSzam = 6;
 
     /**
-     * 
+     * Opcionálisan megadható a tábla tömb reprezentációja.
      * @param array $kigyokLetrak
      */
     public function __construct(array $kigyokLetrak = [])
