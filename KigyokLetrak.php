@@ -7,7 +7,7 @@
  */
 class KigyokLetrak
 {
-
+    //Másik megjegyzés
     private $aktualisPozicio = 1;
     private $dobasSzam = 0;
     private $kigyokLetrak = [];
