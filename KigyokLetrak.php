@@ -38,7 +38,7 @@ class KigyokLetrak
     }
 
     /**
-     * 
+     * Ez a metódus vissza adja az akutális pozicíó értékét.
      * @return int
      */
     public function getAktualisPozicio(): int
@@ -47,7 +47,7 @@ class KigyokLetrak
     }
 
     /**
-     * 
+     * Ez a metódus vissza adja a dobások számát.
      * @return int
      */
     public function getDobasSzam(): int
